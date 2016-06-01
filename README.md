@@ -2,6 +2,8 @@
 
 A compilation of word lists of many languages
 
+Language | ISO
+--- | --- | ---
 български | bg
 čeština | cs
 dansk | da
